@@ -37,4 +37,4 @@ sidebar:
 # When running locally, we run into the following error —
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
-# github: [metadata]
+github: [metadata]
