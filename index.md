@@ -2,6 +2,38 @@
 layout: default
 ---
 
+// # News
+
+# Biography
+
+# Research Interests
+
+# Research Projects
+
+# Publications
+
+## Journals
+
+1. Liu, Jingwei, Rui Zhang, Aoyu Gong, and He Chen. "[Optimizing Age of Information in Wireless UplinkNetworks with Partial Observations](http://arxiv.org/abs/2202.03152)." arXiv preprint arXiv:2202.03152 (2022).
+
+2. Zhang, Rui, Peng Cheng, Zhuo Chen, Sige Liu, Branka Vucetic, and Yonghui Li. "[Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63)." IEEE Transactions on Communications (2022).
+
+3. R. Zhang, P. Cheng, Z. Chen, S. Liu, Y. Li and B. Vucetic, "Online Learning Enabled Task Offloading for Vehicular Edge Computing," in IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020, [doi: 10.1109/LWC.2020.2973985.](https://ieeexplore.ieee.org/abstract/document/8999589)
+
+
+4. \publish{\href{https://ieeexplore.ieee.org/abstract/document/8786192}{\textbf{R. Zhang}, P. Cheng, Z. Chen, Y. Li and B. Vucetic, ``A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels," in \textit{IEEE Transactions on Signal Processing}, vol. 67, no. 18, pp. 4899-4914, 15 Sep. 2019.}}
+
+## Conferences
+
+1. \publish{\href{https://ieeexplore.ieee.org/abstract/document/8761201}{\textbf{R. Zhang}, P. Cheng, Z. Chen, Y. Li and B. Vucetic, ``Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing," in \textit{Proc. IEEE International Conference on Communications (ICC)}, Shanghai, 2019.}}
+
+2. \publish{\href{https://ieeexplore.ieee.org/abstract/document/7996608}{\textbf{R. Zhang}, H. Chen, P. L. Yeoh, Y. Li and B. Vucetic, ``Full-duplex cooperative cognitive radio networks with wireless energy harvesting," in \textit{Proc. IEEE International Conference on Communications (ICC)}, Paris, 2017.}}
+
+3. \publish{\href{https://ieeexplore.ieee.org/abstract/document/8330524}{Y. Hu, J. Jiao, \textbf{R. Zhang}, S. Wu, S. Gu, and Q. Zhang, ``Design and Analysis of LTP-HARQ Transmission Scheme in OSTBC-MIMO Systems for SINs," in \textit{Proc. IEEE/CIC International Conference on Communications in China}, China, 2017.}}
+
+# Honors and Awards
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
