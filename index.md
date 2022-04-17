@@ -26,7 +26,7 @@ arXiv preprint arXiv:2202.03152 (2022).
 
 2. [Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Branka Vucetic, and Yonghui Li \
-IEEE Transactions on Communications, doi: 10.1109/TCOMM.2022.3152262.
+IEEE Transactions on Communications, vol. 70, no. 4, pp. 2547-2560, April 2022, doi: 10.1109/TCOMM.2022.3152262.
 
 3. [Online Learning Enabled Task Offloading for Vehicular Edge Computing](https://ieeexplore.ieee.org/abstract/document/8999589) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Yonghui Li, and Branka Vucetic \
