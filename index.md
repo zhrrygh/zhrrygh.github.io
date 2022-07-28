@@ -10,7 +10,7 @@ Rui Zhang is currently a Postdoctoral Fellow in the Department of Information En
 
 ## Research Interests
 
-* Wireless sensing and localization systems
+* Wireless sensing and localization in robotic systems
 
 * Machine learning in wireless communications
 
