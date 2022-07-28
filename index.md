@@ -50,4 +50,4 @@ ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp.
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524.
 
-[//]: <> ## Honors and Awards
+[//]: <> (## Honors and Awards)
