@@ -20,9 +20,9 @@ Rui Zhang is currently a Postdoctoral Fellow in the Department of Information En
 
 ### Journals
 
-1. [Optimizing Age of Information in Wireless UplinkNetworks with Partial Observations](http://arxiv.org/abs/2202.03152) \
+1. [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](http://arxiv.org/abs/2202.03152](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
-arXiv preprint arXiv:2202.03152 (2022).
+IEEE Transactions on Communications, doi: 10.1109/TCOMM.2023.3265091.
 
 2. [Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Branka Vucetic, and Yonghui Li \
