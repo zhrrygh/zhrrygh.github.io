@@ -20,7 +20,7 @@ Rui Zhang is currently a Postdoctoral Fellow in the Department of Information En
 
 ### Journals
 
-1. [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](http://arxiv.org/abs/2202.03152](https://ieeexplore.ieee.org/document/10093917) \
+1. [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2023.3265091.
 
