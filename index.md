@@ -38,7 +38,7 @@ IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.
 
 ### Conferences
 
-[RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://arxiv.org/abs/2306.15310) \ 
+[RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://arxiv.org/abs/2306.15310) \
 Ke Xu, **Rui Zhang**, and He Chen
 
 [Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing](https://ieeexplore.ieee.org/abstract/document/8761201) \
