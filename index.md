@@ -50,7 +50,7 @@ ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp.
 Houlian Gao, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 872-879. Springer Singapore, 2019.
 
-[Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_13)
+[Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_13) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 101-108. Springer Singapore, 2019.
 
