@@ -81,9 +81,4 @@ Trinity: Robot, Sensing, and Communications
 2016-17 | **Tutor Experience** | ELEC5510 in the University of Sydney \
 Satellite Communication Systems
 
-
-
-
-
-
 [//]: <> (## Honors and Awards)
