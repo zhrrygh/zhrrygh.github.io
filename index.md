@@ -16,6 +16,12 @@ Rui Zhang is currently a Postdoctoral Fellow in the Department of Information En
 
 [//]: <> (# Research Projects)
 
+## Working Experience
+
+* 2021.11-Now | Postdoctoral Fellow | The Chinese University of Hong Kong
+ 
+* 2021.1-2021.11| Research Assistant | The Chinese University of Hong Kong
+
 ## Publications
 
 ### Journals
@@ -61,6 +67,17 @@ Communications, Signal Processing, and Systems: Proceedings of the 2017 Internat
 [Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs](https://ieeexplore.ieee.org/abstract/document/8330524?casa_token=JleRo9QvtKAAAAAA:JRjubUSZ2hLKihEAyGVRon0oHR0GnksWMyVJhMKoGciYsIkZSw8xLYNhZ4CtboH42JzdrDcN3NY) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524.
+
+## Teaching Experience and Activities
+* 2023.3 | Guest Lecture | IERG6130 in the Chinese University of Hong Kong
+WiFi Sensing with Channel State Information
+
+* 2022.7 | Invited Talk | International Summer School of Southwest Jiaotong University 
+Trinity: Robot, Sensing, and Communications
+
+* 2016-17 | Tutor Experience | ELEC5510 in the University of Sydney 
+Satellite Communication Systems
+
 
 
 
