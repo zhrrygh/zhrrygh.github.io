@@ -38,12 +38,21 @@ IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.
 
 ### Conferences
 
-[RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://arxiv.org/abs/2306.15310) \
-Ke Xu, **Rui Zhang**, and He Chen
+[RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
+Ke Xu, **Rui Zhang**, and He Chen \
+2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 311-315, doi: 10.1109/SPAWC53906.2023.10304552.
 
 [Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing](https://ieeexplore.ieee.org/abstract/document/8761201) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li , and Branka Vucetic \
 ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp. 1-6, doi: 10.1109/ICC.2019.8761201.
+
+[Outage Performance of Cooperative Deep-Space Downlink with Backbone Relaying in SBINs](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_106) \
+Houlian Gao, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
+Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 872-879. Springer Singapore, 2019.
+
+[Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_13)
+Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
+Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 101-108. Springer Singapore, 2019.
 
 [Full-duplex cooperative cognitive radio networks with wireless energy harvesting](https://ieeexplore.ieee.org/abstract/document/7996608) \
 **Rui Zhang**, He Chen, Phee Lep Yeoh, Yonghui Li, and Branka Vucetic \
@@ -52,5 +61,9 @@ ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp.
 [Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs](https://ieeexplore.ieee.org/abstract/document/8330524?casa_token=JleRo9QvtKAAAAAA:JRjubUSZ2hLKihEAyGVRon0oHR0GnksWMyVJhMKoGciYsIkZSw8xLYNhZ4CtboH42JzdrDcN3NY) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524.
+
+
+
+
 
 [//]: <> (## Honors and Awards)
