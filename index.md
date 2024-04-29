@@ -87,10 +87,10 @@ Satellite Communication Systems
 
 ## Honors and Awards
 
-2017 | **Postgraduate Scholarship in Wireless Communications** | University of Sydney \
+2017 | **Postgraduate Scholarship in Wireless Communications** | University of Sydney 
 
-2017 | **Normal I Price Supplementary Scholarship** | University of Sydney \
+2017 | **Normal I Price Supplementary Scholarship** | University of Sydney 
 
-2015 | **Excellent Undergraduate International Exchange Program Scholarship** | China Scholarship Council \
+2015 | **Excellent Undergraduate International Exchange Program Scholarship** | China Scholarship Council 
 
 2013 | **The Principal Scholarship** | Southeast University
