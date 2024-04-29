@@ -10,9 +10,9 @@ Rui Zhang is currently a Postdoctoral Fellow in the Department of Information En
 
 ## Research Interests
 
-* Wireless sensing and localization in robotic systems
+* Passive Wi-Fi Sensing on Mobile Robots
 
-* Machine learning in wireless communications
+* Machine Learning in Wireless Communications
 
 [//]: <> (# Research Projects)
 
@@ -27,6 +27,10 @@ The Chinese University of Hong Kong
 ## Publications
 
 ### Journals
+
+[Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing]() \
+Ke Xu, **Rui Zhang**, and He Chen \
+IEEE Transactions on Communications, Accepted
 
 [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
@@ -81,4 +85,12 @@ Trinity: Robot, Sensing, and Communications
 2016-17 | **Tutor Experience** | ELEC5510 in the University of Sydney \
 Satellite Communication Systems
 
-[//]: <> (## Honors and Awards)
+## Honors and Awards
+
+2017 | **Postgraduate Scholarship in Wireless Communications** | University of Sydney \
+
+2017 | **Normal I Price Supplementary Scholarship** | University of Sydney \
+
+2015 | **Excellent Undergraduate International Exchange Program Scholarship** | China Scholarship Council \
+
+2013 | **The Principal Scholarship** | Southeast University
