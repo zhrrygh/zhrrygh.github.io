@@ -6,11 +6,12 @@ layout: default
 
 ## Biography
 
-Rui Zhang is currently a Postdoctoral Fellow in the Department of Information Engineering, The Chinese University of Hong Kong. He is with [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/) led by Prof. Chen He, Henry. He received his Ph.D. in 2020 from the School of Electrical and Information Engineering, The University of Sydney, under the supervision of Prof. Branka Vucetic and Dr. Peng Cheng. He received his B.E. in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China.
+Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and Information Engineering, The University of Sydney, where he was supervised by Prof. Branka Vucetic and Dr. Peng Cheng. He received his Bachelor of Engineering in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China. Currently, Rui is a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong. He is a member of [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/), which is led by Prof. He Chen. His research interests include machine learning in wireless communications, as well as wireless sensing on mobile robots.
+
 
 ## Research Interests
 
-* Passive Wi-Fi Sensing on Mobile Robots
+* Wireless Sensing on Mobile Robots
 
 * Machine Learning in Wireless Communications
 
