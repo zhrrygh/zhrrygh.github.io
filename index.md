@@ -26,10 +26,12 @@ The Chinese University of Hong Kong
 The Chinese University of Hong Kong
 
 ## Education Background
-2016 - 2020 | The University of Sydney | **Doctor of Philosophy** \
+2016 - 2020 | **Doctor of Philosophy** \
+The University of Sydney \
 Thesis Title: Resource Access in the Internet-of-Things
 
-2012 - 2016 |  Southeast University | **Bachelor of Engineering** \
+2012 - 2016 | **Bachelor of Engineering** \
+Southeast University \
 Major : Information Engineering
 
 ## Publications
