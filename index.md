@@ -25,6 +25,13 @@ The Chinese University of Hong Kong
 2021.01-2021.11| **Research Assistant** \
 The Chinese University of Hong Kong
 
+## Education Background
+2016 - 2020 | The University of Sydney | **Doctor of Philosophy** \
+Thesis Title: Resource Access in the Internet-of-Things
+
+2012 - 2016 |  Southeast University | **Bachelor of Engineering** \
+Major : Information Engineering
+
 ## Publications
 
 ### Journals
