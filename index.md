@@ -19,10 +19,10 @@ Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and I
 
 ## Working Experience
 
-2021.11-Now | **Postdoctoral Fellow** \
+2021.11 - Now | **Postdoctoral Fellow** \
 The Chinese University of Hong Kong
  
-2021.01-2021.11| **Research Assistant** \
+2021.01 - 2021.11| **Research Assistant** \
 The Chinese University of Hong Kong
 
 ## Education Background
@@ -86,14 +86,14 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## Teaching Experience and Activities
 
-2023.03 | **Guest Lecture** | IERG6130 in the Chinese University of Hong Kong \
-WiFi Sensing with Channel State Information
+2023.03 | **Guest Lecture** | The Chinese University of Hong Kong \
+IERG6130: WiFi Sensing with Channel State Information
 
-2022.07 | **Invited Talk** | International Summer School of Southwest Jiaotong University \
+2022.07 | **Invited Talk** | Southwest Jiaotong University (International Summer School) \
 Trinity: Robot, Sensing, and Communications
 
-2016 - 2017 | **Tutor Experience** | ELEC5510 in the University of Sydney \
-Satellite Communication Systems
+2016 - 2017 | **Tutor Experience** | The University of Sydney \
+ELEC5510: Satellite Communication Systems
 
 ## Honors and Awards
 
