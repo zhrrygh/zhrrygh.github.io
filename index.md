@@ -92,7 +92,7 @@ IERG6130: WiFi Sensing with Channel State Information
 2022.07 | **Invited Talk** | Southwest Jiaotong University (International Summer School) \
 Trinity: Robot, Sensing, and Communications
 
-2016 - 2017 | **Tutor Experience** | The University of Sydney \
+2016 - 2017 | **Tutor** | The University of Sydney \
 ELEC5510: Satellite Communication Systems
 
 ## Honors and Awards
