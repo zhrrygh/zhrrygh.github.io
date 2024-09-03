@@ -6,7 +6,7 @@ layout: default
 
 ## Biography
 
-Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and Information Engineering, The University of Sydney, where he was supervised by Prof. Branka Vucetic and Dr. Peng Cheng. He received his Bachelor of Engineering in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China. Currently, Rui is a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong. He is a member of [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/), which is led by Prof. He Chen. His research interests include machine learning in wireless communications, as well as wireless sensing on mobile robots.
+Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and Information Engineering, The University of Sydney, where he was supervised by Prof. Branka Vucetic and Dr. Peng Cheng. He received his Bachelor of Engineering in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China. Currently, Rui was a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong from 2021 to 2024 as a member of [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/), which is led by Prof. He Chen. He is now with Shenzhen University as an Assistant Professor in the research group led by Prof. Zhi Quan. His research interests include machine learning in wireless communications, as well as wireless sensing on mobile robots.
 
 
 ## Research Interests
@@ -85,6 +85,9 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524.
 
 ## Teaching Experience and Activities
+
+2024.05 | **Invited Talk** | Northeastern University \
+Wireless Communication and Sensing for Mission-Critical Applications
 
 2023.03 | **Guest Lecture** | The Chinese University of Hong Kong \
 IERG6130: WiFi Sensing with Channel State Information
