@@ -18,6 +18,8 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: "https://github.com/zhrrygh"
+  - name: zhrrygh
+    icon: "<img src='/assets/img/wechat_icon2.png' alt='wechat_icon' width='10' height='10' />"
   - name: ""
     icon: "<img src='/assets/img/wechat.png' alt='微信二维码' width='150' height='150' />"
     link: "#"
