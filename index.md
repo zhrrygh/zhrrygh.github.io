@@ -8,18 +8,20 @@ layout: default
 
 Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and Information Engineering, The University of Sydney, where he was supervised by Prof. Branka Vucetic and Dr. Peng Cheng. He received his Bachelor of Engineering in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China. Currently, Rui was a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong from 2021 to 2024 as a member of [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/), which is led by Prof. He Chen. He is now with Shenzhen University as an Assistant Professor in the research group led by Prof. Zhi Quan. His research interests include machine learning in wireless communications, as well as wireless sensing on mobile robots.
 
-
 ## Research Interests
 
-* Wireless Sensing on Mobile Robots
+* Integrated Sensing and Communications
 
-* Machine Learning in Wireless Communications
+* Data Driven Wireless Communications
 
 [//]: <> (# Research Projects)
 
 ## Working Experience
 
-2021.11 - Now | **Postdoctoral Fellow** \
+2024.09 - Now | **Assistant Professor** \
+Shenzhen University
+
+2021.11 - 2024.05 | **Postdoctoral Fellow** \
 The Chinese University of Hong Kong
  
 2021.01 - 2021.11| **Research Assistant** \
