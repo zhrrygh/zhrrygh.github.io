@@ -4,6 +4,14 @@ layout: default
 
 [//]: <> (# News)
 
+Assistant Professor, College of Electronics and Information Engineering
+Shenzhen University
+
+Office: N302, Zhixin Building, Canghai Campus
+
+Prospective Students: 
+I am actively looking for highly self-motivated MPhil students to work on wireless communication systems with an attractive allowance. If you are interested, please drop me an email with your CV. Undergraduate students are also welcome.
+
 ## Biography
 
 Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and Information Engineering, The University of Sydney, where he was supervised by Prof. Branka Vucetic and Dr. Peng Cheng. He received his Bachelor of Engineering in 2016 from the School of Information Science and Engineering, Southeast University, Nanjing, China. 
