@@ -73,7 +73,7 @@ Ke Xu, **Rui Zhang**, and He Chen \
 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 311-315, doi: 10.1109/SPAWC53906.2023.10304552.
 
 [Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing](https://ieeexplore.ieee.org/abstract/document/8761201) \
-**Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li , and Branka Vucetic \
+**Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
 ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp. 1-6, doi: 10.1109/ICC.2019.8761201.
 
 [Outage Performance of Cooperative Deep-Space Downlink with Backbone Relaying in SBINs](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_106) \
