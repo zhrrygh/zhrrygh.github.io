@@ -46,7 +46,7 @@ Major : Information Engineering
 
 ### Journals
 
-[Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606) [<span style="color: #007BFF; font-weight: bold;">PDF</span>](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf){target="_blank"} \
+[Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606) [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024_Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf){target="_blank"} \
 Ke Xu, **Rui Zhang**, and He Chen \
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3397838.
 
