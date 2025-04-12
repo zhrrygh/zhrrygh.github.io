@@ -46,59 +46,59 @@ Major : Information Engineering
 
 ### Journals
 
-[Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
+[J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3397838. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024_Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) 
 
-[Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
+[J4] [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
 IEEE Transactions on Communications, vol. 71, no. 7, pp. 4105-4118, July 2023, doi: 10.1109/TCOMM.2023.3265091. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2023 Optimizing Age of Information in Wireless Uplink Networks With Partial Observations.pdf) 
 
-[Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63) \
+[J3] [Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Branka Vucetic, and Yonghui Li \
 IEEE Transactions on Communications, vol. 70, no. 4, pp. 2547-2560, April 2022, doi: 10.1109/TCOMM.2022.3152262. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2022 Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks.pdf) 
 
-[Online Learning Enabled Task Offloading for Vehicular Edge Computing](https://ieeexplore.ieee.org/abstract/document/8999589) \
+[J2] [Online Learning Enabled Task Offloading for Vehicular Edge Computing](https://ieeexplore.ieee.org/abstract/document/8999589) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Yonghui Li, and Branka Vucetic \
 IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020, doi: 10.1109/LWC.2020.2973985. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2020 Online Learning Enabled Task Offloading for Vehicular Edge Computing.pdf) 
 
-[A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels](https://ieeexplore.ieee.org/abstract/document/8786192) \
+[J1] [A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels](https://ieeexplore.ieee.org/abstract/document/8786192) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019, doi: 10.1109/TSP.2019.2932866. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing.pdf) 
 
 ### Conferences
 
-[RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
+[C6] [RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
 Ke Xu, **Rui Zhang**, and He Chen \
 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 311-315, doi: 10.1109/SPAWC53906.2023.10304552. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2023 RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems.pdf) 
 
-[Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing](https://ieeexplore.ieee.org/abstract/document/8761201) \
+[C5] [Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing](https://ieeexplore.ieee.org/abstract/document/8761201) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
 ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp. 1-6, doi: 10.1109/ICC.2019.8761201. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing.pdf) 
 
-[Outage Performance of Cooperative Deep-Space Downlink with Backbone Relaying in SBINs](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_106) \
+[C4] [Outage Performance of Cooperative Deep-Space Downlink with Backbone Relaying in SBINs](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_106) \
 Houlian Gao, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 872-879. Springer Singapore, 2019. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 Outage Performance of Cooperative Deep-Space Downlink with Backbone Relaying in SBINs.pdf) 
 
-[Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_13) \
+[C3] [Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks](https://link.springer.com/chapter/10.1007/978-981-10-6571-2_13) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 Communications, Signal Processing, and Systems: Proceedings of the 2017 International Conference on Communications, Signal Processing, and Systems, pp. 101-108. Springer Singapore, 2019. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 Performance Analysis of MIMO-HARQ Schemes in LTP for Space Information Networks.pdf) 
 
-[Full-duplex cooperative cognitive radio networks with wireless energy harvesting](https://ieeexplore.ieee.org/abstract/document/7996608) \
+[C2] [Full-duplex cooperative cognitive radio networks with wireless energy harvesting](https://ieeexplore.ieee.org/abstract/document/7996608) \
 **Rui Zhang**, He Chen, Phee Lep Yeoh, Yonghui Li, and Branka Vucetic \
 2017 IEEE International Conference on Communications (ICC), 2017, pp. 1-6, doi: 10.1109/ICC.2017.7996608. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2017 Full-duplex cooperative cognitive radio networks with wireless energy harvesting.pdf) 
 
-[Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs](https://ieeexplore.ieee.org/abstract/document/8330524?casa_token=JleRo9QvtKAAAAAA:JRjubUSZ2hLKihEAyGVRon0oHR0GnksWMyVJhMKoGciYsIkZSw8xLYNhZ4CtboH42JzdrDcN3NY) \
+[C1] [Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs](https://ieeexplore.ieee.org/abstract/document/8330524?casa_token=JleRo9QvtKAAAAAA:JRjubUSZ2hLKihEAyGVRon0oHR0GnksWMyVJhMKoGciYsIkZSw8xLYNhZ4CtboH42JzdrDcN3NY) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2017 Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs.pdf)
