@@ -49,7 +49,7 @@ Major : Information Engineering
 [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3397838. \
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024_Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) 
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) 
 
 [J4] [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
