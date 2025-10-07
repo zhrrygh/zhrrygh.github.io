@@ -69,7 +69,7 @@ IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020, doi
 [J1] [A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels](https://ieeexplore.ieee.org/abstract/document/8786192) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019, doi: 10.1109/TSP.2019.2932866. \
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 Learning Multiple Primary Transmit Power Levels for Smart Spectrum Sharing.pdf) 
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels.pdf) 
 
 ### Conferences
 
