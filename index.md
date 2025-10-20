@@ -105,6 +105,12 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## Teaching Experience and Activities
 
+2025 | **PhD Lecture** | Shenzhen University \
+Research Methods and Paper Writing Guidance
+
+2025 | **Undergraduate Lecture** | Shenzhen University \
+Information Theory and Coding
+
 2024.05 | **Invited Talk** | Northeastern University \
 Wireless Communication and Sensing for Mission-Critical Applications
 
