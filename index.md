@@ -10,7 +10,7 @@ Rui Zhang completed his Ph.D. in December 2020 at the School of Electrical and I
 
 He is now with Shenzhen University as an Assistant Professor in the research group led by Prof. Zhi Quan. His research interests include machine learning in wireless communications, as well as wireless sensing on mobile robots. He was a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong from 2021 to 2024 as a member of [the Wireless Internet-of-Things Systems (WIoT) Research Group](http://iiotc.ie.cuhk.edu.hk/), which is led by Prof. He Chen. 
 
-**Office**: N302, Zhixin Building, Canghai Campus
+**Office**: N302, Zhixin Building, Canghai Campus, Shenzhen University, China
 
 **Prospective Students**: I am actively looking for highly self-motivated MPhil students to work on wireless communication systems with an attractive allowance. If you are interested, please drop me an email with your CV. Undergraduate students are also welcome.
 
