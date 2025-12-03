@@ -46,29 +46,35 @@ Major : Information Engineering
 
 ### Journals
 
+[J6] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699)
+Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages. \
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) 
+
+
 [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
-IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3397838. \
+IEEE Transactions on Communications, vol. 72, no. 10, pp. 6116-6130, Oct. 2024. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) 
 
 [J4] [Optimizing Age of Information in Wireless Uplink Networks with Partial Observations](https://ieeexplore.ieee.org/document/10093917) \
 Jingwei Liu, **Rui Zhang**, Aoyu Gong, and He Chen \
-IEEE Transactions on Communications, vol. 71, no. 7, pp. 4105-4118, July 2023, doi: 10.1109/TCOMM.2023.3265091. \
+IEEE Transactions on Communications, vol. 71, no. 7, pp. 4105-4118, July 2023. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2023 Optimizing Age of Information in Wireless Uplink Networks With Partial Observations.pdf) 
 
 [J3] [Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks](https://ieeexplore.ieee.org/abstract/document/9715074?casa_token=oHjZaEumGLcAAAAA:hyuB2pyiOZkI4IK_btJJqWAI2OZiR197AqLJy04RDApz47fv1ES61KpTlcNB8tF6arebAu63) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Branka Vucetic, and Yonghui Li \
-IEEE Transactions on Communications, vol. 70, no. 4, pp. 2547-2560, April 2022, doi: 10.1109/TCOMM.2022.3152262. \
+IEEE Transactions on Communications, vol. 70, no. 4, pp. 2547-2560, April 2022. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2022 Calibrated Bandit Learning for Decentralized Task Offloading in Ultra-Dense Networks.pdf) 
 
 [J2] [Online Learning Enabled Task Offloading for Vehicular Edge Computing](https://ieeexplore.ieee.org/abstract/document/8999589) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Sige Liu, Yonghui Li, and Branka Vucetic \
-IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020, doi: 10.1109/LWC.2020.2973985. \
+IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2020 Online Learning Enabled Task Offloading for Vehicular Edge Computing.pdf) 
 
 [J1] [A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels](https://ieeexplore.ieee.org/abstract/document/8786192) \
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
-IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019, doi: 10.1109/TSP.2019.2932866. \
+IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019. \
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2019 A Learning-Based Two-Stage Spectrum Sharing Strategy With Multiple Primary Transmit Power Levels.pdf) 
 
 ### Conferences
