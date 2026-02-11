@@ -19,6 +19,46 @@
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
+    <style>
+      /* === 1. 侧边栏颜色修改 === */
+      /* 强制侧边栏的所有链接文字为黑色 */
+      .sidebar a {
+        color: #2c3e50 !important; /* 深黑色，比纯黑更有质感 */
+      }
+      /* 强制侧边栏的所有图标为蓝色 */
+      .sidebar i {
+        color: #007bff !important; /* 经典的学术/科技蓝 */
+        min-width: 20px; /* 对齐图标 */
+      }
+      /* 鼠标悬停时的效果 */
+      .sidebar a:hover {
+        color: #007bff !important;
+      }
+
+      /* === 2. 中文排版美化 (仅在 lang="cn" 时生效) === */
+      html[lang="cn"] body {
+        /* 正文使用仿宋，备选宋体 */
+        font-family: "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+        font-size: 18px; /* 字体调大 (原主题通常是 16px) */
+        line-height: 1.8; /* 行间距调大 (让阅读更宽松) */
+      }
+
+      html[lang="cn"] h1,
+      html[lang="cn"] h2,
+      html[lang="cn"] h3,
+      html[lang="cn"] h4,
+      html[lang="cn"] .sidebar header h1 a {
+        /* 标题使用黑体 */
+        font-family: "SimHei", "黑体", "STHeiti", "Microsoft YaHei", sans-serif;
+        font-weight: bold;
+      }
+
+      /* 针对中文列表的额外优化 */
+      html[lang="cn"] ul li {
+        margin-bottom: 8px; /* 列表项之间增加一点间距 */
+      }
+    </style>
+
     {% include head-custom.html %}
   </head>
   <body>
@@ -44,7 +84,7 @@
           {% include sidebar.html %}
 
           <div style="margin-top: 5px;">
-            <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank" style="color: inherit; text-decoration: none;">
+            <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank" style="text-decoration: none;">
               <i class="fas fa-university"></i>
               {% if page.lang == 'cn' %}
                 深圳大学主页
@@ -55,11 +95,11 @@
           </div>
 
           <div class="lang-switch" style="margin-top: 15px; font-size: 1.1em;">
-            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none; color: inherit;" title="Switch to Chinese">
+            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none;" title="Switch to Chinese">
               <i class="fas fa-language"></i> 中
             </a>
             <span style="color: #ccc;">|</span>
-            <a href="{{ site.baseurl }}/" style="margin-left: 10px; text-decoration: none; color: inherit;" title="Switch to English">
+            <a href="{{ site.baseurl }}/" style="margin-left: 10px; text-decoration: none;" title="Switch to English">
               EN
             </a>
           </div>
