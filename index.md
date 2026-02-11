@@ -74,7 +74,7 @@ IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [C7] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
 Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
-Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages. 
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2023 RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems.pdf) [C6] [RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
 Ke Xu, **Rui Zhang**, and He Chen \
