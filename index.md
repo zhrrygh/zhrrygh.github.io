@@ -46,7 +46,7 @@ Major : Information Engineering
 
 ### Journals
 
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://kns.cnki.net/kcms2/article/abstract?v=1UVqcA8TcpDasqr5Z_zER5-wMn5TOFtk8SrZHUQuxY5i28IR5kqkmhxKULQpsCX7Zw2Z-56N2XqY-ATwNM7tZ0O_yT17x3j89Ek_pVX4wst3HmN5RoQm4VVYfH-BEKc9J0YnEgxdiTtc8jRK_xCHixGsJHchzqWbA2YXiQ-urkFqNkvzU_5rvA==&uniplatform=NZKPT&language=CHS) \
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 Z. Lin, M. Liang, J. Lai, J. Li, **R. Zhang**, Y. Gu, S. Bi, and Z. Quan \
 Journal of Signal Processing, vol. 42, no. 1, pp. 95-108, Jan. 2026. (in Chinese)
 
