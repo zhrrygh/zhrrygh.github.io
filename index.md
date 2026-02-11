@@ -47,7 +47,7 @@ Major : Information Engineering
 ### Journals
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
-Z. Lin, M. Liang, J. Lai, J. Li, **R. Zhang**, Y. Gu, S. Bi, and Z. Quan \
+Zehong Lin, Mengyu Liang, Jiajie Lai, Jianlin Li, **Rui Zhang**, Yifan Gu, Suzhi Bi, and Zhi Quan \
 Journal of Signal Processing, vol. 42, no. 1, pp. 95-108, Jan. 2026. (in Chinese)
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
@@ -102,11 +102,16 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## Teaching Experience and Activities
 
+2026 | 
+
 2025 | **PhD Lecture** | Shenzhen University \
 Research Methods and Paper Writing Guidance
 
 2025 | **Undergraduate Lecture** | Shenzhen University \
+Information Theory and Coding (Wenhua Class)\
 Information Theory and Coding
+
+
 
 2024.05 | **Invited Talk** | Northeastern University \
 Wireless Communication and Sensing for Mission-Critical Applications
