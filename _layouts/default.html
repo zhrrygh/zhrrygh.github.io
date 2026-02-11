@@ -39,22 +39,27 @@
             <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
           {% endif %}
 
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
 
           {% include sidebar.html %}
 
           <div style="margin-top: 5px;">
-            <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank">
-              <i class="fas fa-university"></i> SZU Profile
+            <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank" style="color: inherit; text-decoration: none;">
+              <i class="fas fa-university"></i>
+              {% if page.lang == 'cn' %}
+                深圳大学主页
+              {% else %}
+                SZU Profile
+              {% endif %}
             </a>
           </div>
 
           <div class="lang-switch" style="margin-top: 15px; font-size: 1.1em;">
-            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none;" title="Switch to Chinese">
+            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none; color: inherit;" title="Switch to Chinese">
               <i class="fas fa-language"></i> 中
             </a>
             <span style="color: #ccc;">|</span>
-            <a href="{{ site.baseurl }}/" style="margin-left: 10px; text-decoration: none;" title="Switch to English">
+            <a href="{{ site.baseurl }}/" style="margin-left: 10px; text-decoration: none; color: inherit;" title="Switch to English">
               EN
             </a>
           </div>
