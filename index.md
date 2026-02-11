@@ -102,16 +102,18 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## Teaching Experience and Activities
 
-2026 | 
+2026 | **Master Lecture** | Shenzhen University \
+Coding Theory
 
-2025 | **PhD Lecture** | Shenzhen University \
+2026 | **Undergraduate Lecture** | Shenzhen University \
+Wireless Communication Technology
+
+2025 | **PhD Lecture (Foreign Students)** | Shenzhen University \
 Research Methods and Paper Writing Guidance
 
 2025 | **Undergraduate Lecture** | Shenzhen University \
 Information Theory and Coding (Wenhua Class)\
 Information Theory and Coding
-
-
 
 2024.05 | **Invited Talk** | Northeastern University \
 Wireless Communication and Sensing for Mission-Critical Applications
