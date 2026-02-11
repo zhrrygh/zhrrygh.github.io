@@ -20,43 +20,66 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <style>
-      /* === 1. 侧边栏颜色修改 === */
-      /* 强制侧边栏的所有链接文字为黑色 */
-      .sidebar a {
-        color: #2c3e50 !important; /* 深黑色，比纯黑更有质感 */
-      }
-      /* 强制侧边栏的所有图标为蓝色 */
-      .sidebar i {
-        color: #007bff !important; /* 经典的学术/科技蓝 */
-        min-width: 20px; /* 对齐图标 */
-      }
-      /* 鼠标悬停时的效果 */
-      .sidebar a:hover {
-        color: #007bff !important;
+      /* =========================================
+         1. 左侧栏 (Sidebar) 样式修改
+         ========================================= */
+
+      /* 强制图标和文字都为黑色 */
+      .sidebar, .sidebar a, .sidebar i {
+        color: #000000 !important;
       }
 
-      /* === 2. 中文排版美化 (仅在 lang="cn" 时生效) === */
-      html[lang="cn"] body {
-        /* 正文使用仿宋，备选宋体 */
+      /* 鼠标悬停时稍微变浅一点，提升交互感 */
+      .sidebar a:hover, .sidebar a:hover i {
+        color: #333333 !important;
+      }
+
+      /* 调整左侧栏中英文切换按钮的布局，避免拥挤 */
+      .lang-switch a {
+        font-weight: bold;
+        display: inline-block; /* 保证点击区域完整 */
+      }
+
+
+      /* =========================================
+         2. 右侧正文 (Main Content) 样式修改
+         只针对中文页面 (lang="cn") 生效
+         ========================================= */
+
+      /* 针对右侧正文容器 (section) 的全局设定 */
+      html[lang="cn"] section {
+        /* 正文使用仿宋 */
         font-family: "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
-        font-size: 18px; /* 字体调大 (原主题通常是 16px) */
-        line-height: 1.8; /* 行间距调大 (让阅读更宽松) */
+        /* 字号调大：默认通常是16px，这里设为18px，看着更舒服 */
+        font-size: 19px;
+        /* 行间距调大：2.0 倍行距，适合阅读学术论文列表 */
+        line-height: 2.0;
+        color: #222; /* 字体颜色加深一点，对比度更好 */
       }
 
-      html[lang="cn"] h1,
-      html[lang="cn"] h2,
-      html[lang="cn"] h3,
-      html[lang="cn"] h4,
-      html[lang="cn"] .sidebar header h1 a {
+      /* 针对右侧正文里的所有标题 (h1, h2, h3...) */
+      html[lang="cn"] section h1,
+      html[lang="cn"] section h2,
+      html[lang="cn"] section h3,
+      html[lang="cn"] section h4 {
         /* 标题使用黑体 */
         font-family: "SimHei", "黑体", "STHeiti", "Microsoft YaHei", sans-serif;
         font-weight: bold;
+        margin-top: 1.5em; /* 增加标题上方的间距 */
+        margin-bottom: 0.8em; /* 增加标题下方的间距 */
       }
 
-      /* 针对中文列表的额外优化 */
-      html[lang="cn"] ul li {
-        margin-bottom: 8px; /* 列表项之间增加一点间距 */
+      /* 针对右侧正文里的列表项 (li) */
+      html[lang="cn"] section ul li,
+      html[lang="cn"] section ol li {
+        margin-bottom: 12px; /* 让列表（比如论文列表）每一项之间分得更开 */
       }
+
+      /* 针对右侧正文里的链接 */
+      html[lang="cn"] section a {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; /* 链接保留无衬线字体，比较清晰 */
+      }
+
     </style>
 
     {% include head-custom.html %}
@@ -83,7 +106,7 @@
 
           {% include sidebar.html %}
 
-          <div style="margin-top: 5px;">
+          <div style="margin-top: 8px;">
             <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank" style="text-decoration: none;">
               <i class="fas fa-university"></i>
               {% if page.lang == 'cn' %}
@@ -94,8 +117,8 @@
             </a>
           </div>
 
-          <div class="lang-switch" style="margin-top: 15px; font-size: 1.1em;">
-            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none;" title="Switch to Chinese">
+          <div class="lang-switch" style="margin-top: 20px; font-size: 1.1em; border-top: 1px solid #eee; padding-top: 15px;">
+            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none;" title="切换到中文版">
               <i class="fas fa-language"></i> 中
             </a>
             <span style="color: #ccc;">|</span>
@@ -112,11 +135,11 @@
           {%- include footer.html -%}
         </div>
       </div>
+
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
+
       <footer>
         {%- include footer.html -%}
       </footer>

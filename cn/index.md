@@ -37,7 +37,7 @@ lang: cn
 ## 教育背景
 2016 - 2020 | **哲学博士 (Ph.D.)** \
 悉尼大学 \
-论文题目：物联网中的资源接入 (Resource Access in the Internet-of-Things)
+论文题目：Resource Access in the Internet-of-Things
 
 2012 - 2016 | **工学学士** \
 东南大学 \
@@ -109,7 +109,7 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 无线通信技术
 
 2025 | **博士课程 (留学生)** | 深圳大学 \
-研究方法与论文写作指导
+Research Methods and Paper Writing Guidance
 
 2025 | **本科课程** | 深圳大学 \
 信息论与编码 (文华班)\
