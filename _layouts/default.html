@@ -12,14 +12,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
     {% include head-custom.html %}
   </head>
   <body>
@@ -43,6 +42,22 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
 
           {% include sidebar.html %}
+
+          <div style="margin-top: 5px;">
+            <a href="https://ceie.szu.edu.cn/info/1019/3023.htm" target="_blank">
+              <i class="fas fa-university"></i> SZU Profile
+            </a>
+          </div>
+
+          <div class="lang-switch" style="margin-top: 15px; font-size: 1.1em;">
+            <a href="{{ site.baseurl }}/cn/" style="margin-right: 10px; text-decoration: none;" title="Switch to Chinese">
+              <i class="fas fa-language"></i> 中
+            </a>
+            <span style="color: #ccc;">|</span>
+            <a href="{{ site.baseurl }}/" style="margin-left: 10px; text-decoration: none;" title="Switch to English">
+              EN
+            </a>
+          </div>
 
         </header>
 

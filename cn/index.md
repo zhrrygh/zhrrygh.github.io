@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Rui Zhang Main Page
-lang: en
+title: 张睿的主页
+lang: cn
 ---
 
 [//]: <> (# News)
