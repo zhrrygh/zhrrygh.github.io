@@ -41,7 +41,6 @@ lang: cn
 专业：信息工程
 
 ## 代表性论文
-
 ### 期刊论文
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
@@ -96,7 +95,7 @@ Communications, Signal Processing, and Systems: Proceedings of the 2017 Internat
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2017 Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs.pdf) [C1] [Design and analysis of LTP-HARQ transmission scheme in OSTBC-MIMO systems for SINs](https://ieeexplore.ieee.org/abstract/document/8330524?casa_token=JleRo9QvtKAAAAAA:JRjubUSZ2hLKihEAyGVRon0oHR0GnksWMyVJhMKoGciYsIkZSw8xLYNhZ4CtboH42JzdrDcN3NY) \
 Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
-2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524. 
+2017 IEEE/CIC International Conference on Communications in China (ICCC), 2017, pp. 1-6, doi: 10.1109/ICCChina.2017.8330524.
 
 ## 教学经历与学术活动
 
@@ -123,6 +122,10 @@ IERG6130: WiFi Sensing with Channel State Information
 ### 助教
 2016 - 2017 | **悉尼大学** \
 ELEC5510: Satellite Communication Systems
+
+## 科研项目
+
+深圳大学青年教师科研启动经费，通感算一体无人机射频定位技术研究，主持，2024-2027
 
 ## 荣誉与奖项
 
