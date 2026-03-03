@@ -48,9 +48,13 @@ Major : Information Engineering
 
 ### Journals
 
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 Zehong Lin, Mengyu Liang, Jiajie Lai, Jianlin Li, **Rui Zhang**, Yifan Gu, Suzhi Bi, and Zhi Quan \
 Journal of Signal Processing, vol. 42, no. 1, pp. 95-108, Jan. 2026. (in Chinese)
+
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [J6] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
+Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
@@ -73,10 +77,6 @@ IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020.
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019.
 
 ### Conferences
-
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [C7] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
-Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
-Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2023 RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems.pdf) [C6] [RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
 Ke Xu, **Rui Zhang**, and He Chen \
