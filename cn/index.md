@@ -45,7 +45,7 @@ lang: cn
 ### 期刊论文
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
-林泽泓, 梁梦宇, 赖嘉杰, 等. 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析[J]. 信号处理, 2026, 42(1): 95-108. DOI: 10.12466/xhcl.2026.01.009.
+林泽泓，梁梦宇，赖嘉杰，利健林，**张睿**，顾一帆，毕宿志，全智. 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析[J]. 信号处理, 2026, 42(1): 95-108. DOI: 10.12466/xhcl.2026.01.009.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
