@@ -8,9 +8,7 @@ lang: cn
 
 ## 个人简介
 
-张睿于2020年12月在悉尼大学电气与信息工程学院获得博士学位，师从 Branka Vucetic 教授和 Peng Cheng 博士。他于2016年在中国南京东南大学信息科学与工程学院获得工学学士学位。
-
-他目前担任深圳大学助理教授，所在的课题组由全智教授领导。他的研究兴趣包括无线通信中的机器学习以及移动机器人无线感知。2021年至2024年，他在香港中文大学信息工程系担任博士后研究员，隶属于由陈赫教授领导的[无线网络与感知 (WiNS) 研究组](http://iiotc.ie.cuhk.edu.hk/)。
+张睿于2016年在中国南京东南大学信息科学与工程学院获得工学学士学位，2020年12月在悉尼大学电气与信息工程学院获得博士学位，师从Branka Vucetic教授和程鹏教授。2021年至2024年，他在香港中文大学信息工程系担任博士后研究员，隶属于由陈赫教授领导的[无线网络与感知 (WiNS) 研究组](http://iiotc.ie.cuhk.edu.hk/)。他目前担任深圳大学助理教授，所在的课题组由全智教授领导。
 
 **办公室**：中国广东省深圳市深圳大学沧海校区致信楼 N302
 
@@ -102,29 +100,28 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## 教学经历与学术活动
 
-2026 | **硕士课程** | 深圳大学 \
-编码理论
+### 本科生课程 | 深圳大学
+信息论与编码 (文华班) | 2025 \
+信息论与编码 | 2025 \
+无线通信技术 | 2026 
 
-2026 | **本科课程** | 深圳大学 \
-无线通信技术
+### 研究生课程 | 深圳大学
+编码理论 | 2026 \
+Research Methods and Paper Writing Guidance (留学博士课程) | 2025
 
-2025 | **博士课程 (留学生)** | 深圳大学 \
-Research Methods and Paper Writing Guidance
-
-2025 | **本科课程** | 深圳大学 \
-信息论与编码 (文华班)\
-信息论与编码
-
-2024.05 | **特邀报告** | 东北大学 \
+### 特邀报告
+2024.05 | **东北大学** \
 Wireless Communication and Sensing for Mission-Critical Applications
 
-2023.03 | **客座授课** | 香港中文大学 \
-IERG6130: WiFi Sensing with Channel State Information
-
-2022.07 | **特邀报告** | 西南交通大学 (国际暑期学校) \
+2022.07 | **西南交通大学** (国际暑期学校) \
 Trinity: Robot, Sensing, and Communications
 
-2016 - 2017 | **助教** | 悉尼大学 \
+### 客座授课
+2023.03 | **香港中文大学** \
+IERG6130: WiFi Sensing with Channel State Information
+
+### 助教
+2016 - 2017 | **悉尼大学** \
 ELEC5510: Satellite Communication Systems
 
 ## 荣誉与奖项
