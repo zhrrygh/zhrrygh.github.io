@@ -10,14 +10,13 @@ lang: cn
 
 张睿于2016年在中国南京东南大学信息科学与工程学院获得工学学士学位，2020年12月在悉尼大学电气与信息工程学院获得博士学位，师从Branka Vucetic教授和程鹏教授。2021年至2024年，他在香港中文大学信息工程系担任博士后研究员，隶属于由陈赫教授领导的[无线网络与感知 (WiNS) 研究组](http://iiotc.ie.cuhk.edu.hk/)。他目前担任深圳大学助理教授，所在的课题组由全智教授领导。
 
-**办公室**：中国广东省深圳市深圳大学沧海校区致信楼 N302
+**办公室**：中国广东省深圳市深圳大学沧海校区致信楼N302室
 
 **招生信息**：我正在积极招募具有高度自驱力的硕士生和博士后从事无线通信系统的研究，并提供优厚的津贴补助。如果你感兴趣，请将简历发送至我的邮箱。同时也非常欢迎本科生加入实验室参与科研。
 
 ## 研究方向
 
 * 通感一体化 (Integrated Sensing and Communications)
-
 * 数据驱动的无线通信 (Data Driven Wireless Communications)
 
 [//]: <> (# Research Projects)
@@ -33,7 +32,7 @@ lang: cn
 香港中文大学
 
 ## 教育背景
-2016 - 2020 | **哲学博士 (Ph.D.)** \
+2016 - 2020 | **哲学博士** \
 悉尼大学 \
 论文题目：Resource Access in the Internet-of-Things
 
@@ -45,10 +44,10 @@ lang: cn
 
 ### 期刊论文
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 林泽泓, 梁梦宇, 赖嘉杰, 等. 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析[J]. 信号处理, 2026, 42(1): 95-108. DOI: 10.12466/xhcl.2026.01.009.
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
 IEEE Transactions on Communications, vol. 72, no. 10, pp. 6116-6130, Oct. 2024.
 
