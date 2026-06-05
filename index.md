@@ -121,30 +121,26 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ## Teaching Experience and Activities
 
-2026 | **Master Lecture** | Shenzhen University \
-Coding Theory
+### Undergraduate Lecture | Shenzhen University
+Information Theory and Coding (Wenhua Class) | 2025 \
+Information Theory and Coding | 2025 \
+Wireless Communication Technology | 2026
 
-2026 | **Undergraduate Lecture** | Shenzhen University \
-Wireless Communication Technology
+### PhD Lecture (Foreign Students) | Shenzhen University
+Research Methods and Paper Writing Guidance | 2025
 
-2025 | **PhD Lecture (Foreign Students)** | Shenzhen University \
-Research Methods and Paper Writing Guidance
+### Invited Talk
+2024.05 | Northeastern University \
+Wireless Communication and Sensing for Mission-Critical Applications 
 
-2025 | **Undergraduate Lecture** | Shenzhen University \
-Information Theory and Coding (Wenhua Class)\
-Information Theory and Coding
+2022.07 | Southwest Jiaotong University (International Summer School)  \
+Trinity: Robot, Sensing, and Communications 
 
-2024.05 | **Invited Talk** | Northeastern University \
-Wireless Communication and Sensing for Mission-Critical Applications
+### Guest Lecture | The Chinese University of Hong Kong
+IERG6130: WiFi Sensing with Channel State Information  | 2023
 
-2023.03 | **Guest Lecture** | The Chinese University of Hong Kong \
-IERG6130: WiFi Sensing with Channel State Information
-
-2022.07 | **Invited Talk** | Southwest Jiaotong University (International Summer School) \
-Trinity: Robot, Sensing, and Communications
-
-2016 - 2017 | **Tutor** | The University of Sydney \
-ELEC5510: Satellite Communication Systems
+### Tutor | The University of Sydney 
+ELEC5510: Satellite Communication Systems | 2016, 2017
 
 ## Honors and Awards
 

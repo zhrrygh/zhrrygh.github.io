@@ -114,9 +114,9 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 ### 本科生课程 | 深圳大学
 信息论与编码 (文华班) | 2025 \
 信息论与编码 | 2025 
+无线通信技术 | 2026
 
 ### 研究生课程 | 深圳大学
-编码理论 | 2026 \
 Research Methods and Paper Writing Guidance (留学博士课程) | 2025
 
 ### 特邀报告
