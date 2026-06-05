@@ -113,7 +113,7 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 
 ### 本科生课程 | 深圳大学
 信息论与编码 (文华班) | 2025 \
-信息论与编码 | 2025 
+信息论与编码 | 2025 \
 无线通信技术 | 2026
 
 ### 研究生课程 | 深圳大学
@@ -126,13 +126,11 @@ Wireless Communication and Sensing for Mission-Critical Applications
 2022.07 | **西南交通大学** (国际暑期学校) \
 Trinity: Robot, Sensing, and Communications
 
-### 客座授课
-2023.03 | **香港中文大学** \
-IERG6130: WiFi Sensing with Channel State Information
+### 客座授课 | 香港中文大学
+IERG6130: WiFi Sensing with Channel State Information | 2023.03 
 
-### 助教
-2016 - 2017 | **悉尼大学** \
-ELEC5510: Satellite Communication Systems
+### 助教 | 悉尼大学
+ELEC5510: Satellite Communication Systems | 2016, 2017
 
 ## 荣誉与奖项
 
