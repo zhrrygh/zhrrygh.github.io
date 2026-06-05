@@ -44,8 +44,25 @@ Thesis Title: Resource Access in the Internet-of-Things
 Southeast University \
 Major : Information Engineering
 
-## Publications
+## Research Grants
 
+### As Principal Investigator
+
+[2] Shenzhen High-Level Talents Program for Newly Introduced Top-notch Personnel in Higher Education Institutions, "Estimation Theory and Key Technologies for Non-Stationary Air-to-Ground Channels", CNY 3,000,000, Jan. 2026 – Dec. 2028
+
+[1] Shenzhen University Young Faculty Research Startup Fund, "Integrated Sensing, Communication, and Computing for UAV RF Localization", CNY 200,000, 2024–2027
+
+### As Co-Investigator
+
+[4] Shenzhen Science and Technology Innovation Commission, Basic Research Program (Natural Science Foundation), JCYJ20240813141603005, "Generalized Representation of 3D Radiation Testing for Broadband RF Integrated Circuits", Nov. 2024 – Nov. 2027, CNY 300,000
+
+[3] The Chinese University of Hong Kong Shun Hing Institute of Advanced Engineering research grant, "Intelligent Mobile Robot-Augmented Self-Supervised Wi-Fi Sensing", Jul. 2022 – Jun. 2024, HKD 796,000
+
+[2] Hong Kong Innovation and Technology Fund (ITF) + Research Talent Hub Scheme, ITS/204/20, "Information Freshness-Oriented Random Access: From Theory to Practical Implementation", Aug. 2021 – Aug. 2023, ~HKD 3 millions
+
+[1] Australian Laureate Fellowships, "Ultralow latency wireless systems", Dec. 2016 - Dec. 2023, AUD 2,671,730
+
+## Publications
 ### Journals
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
