@@ -16,8 +16,9 @@ lang: cn
 
 ## 研究方向
 
+* 低空通信 (Low-Altitude Communications)
 * 通感一体化 (Integrated Sensing and Communications)
-* 数据驱动的无线通信 (Data Driven Wireless Communications)
+* 数据驱动的无线通信 (Data-Driven Wireless Communications)
 
 [//]: <> (# Research Projects)
 

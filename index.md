@@ -18,9 +18,11 @@ He is now with Shenzhen University as an Assistant Professor in the research gro
 
 ## Research Interests
 
+* Low-Altitude Communications
+
 * Integrated Sensing and Communications
 
-* Data Driven Wireless Communications
+* Data-Driven Wireless Communications
 
 [//]: <> (# Research Projects)
 
