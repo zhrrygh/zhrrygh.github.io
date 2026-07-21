@@ -55,6 +55,10 @@ lang: cn
 ## 代表性论文
 ### 期刊论文
 
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels \
+**Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
+IEEE Transactions on Vehicular Technology, 已录用, 2026.
+
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 林泽泓，梁梦宇，赖嘉杰，利健林，**张睿**，顾一帆，毕宿志，全智 \
 信号处理, 2026, 42(1): 95-108. DOI: 10.12466/xhcl.2026.01.009.
@@ -84,6 +88,10 @@ IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020.
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019.
 
 ### 会议论文
+
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 A_Unified_Robust_Low-Rank_Framework_for_Time_Synchronization_in_Multi-Drone_Networks.pdf) [C7] [A Unified Robust Low-Rank Framework for Time Synchronization in Multi-Drone Networks](https://ieeexplore.ieee.org/document/11556172) \
+Farhan Ali, **Rui Zhang**, Liyue Xiao, and Zhi Quan \
+2026 35th Wireless and Optical Communications Conference (WOCC), Newark, NJ, USA, 2026, pp. 1-6, doi: 10.1109/WOCC69802.2026.11556172.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2023 RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems.pdf) [C6] [RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
 Ke Xu, **Rui Zhang**, and He Chen \
