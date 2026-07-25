@@ -67,9 +67,9 @@ Major : Information Engineering
 ## Publications
 ### Journals
 
-[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels \
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
-IEEE Transactions on Vehicular Technology, accepted, 2026.
+IEEE Transactions on Vehicular Technology, Early Access, pp. 1-16, 2026, doi: 10.1109/TVT.2026.3716284.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [Measurement and Analysis of the Impact of UAV Attitude Jitter on Low-Altitude A2G Channel Non-Stationarity](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 Zehong Lin, Mengyu Liang, Jiajie Lai, Jianlin Li, **Rui Zhang**, Yifan Gu, Suzhi Bi, and Zhi Quan \

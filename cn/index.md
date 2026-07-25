@@ -56,9 +56,9 @@ lang: cn
 ## 代表性论文
 ### 期刊论文
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
-IEEE Transactions on Vehicular Technology, 已录用, 2026.
+IEEE Transactions on Vehicular Technology, Early Access, pp. 1-16, 2026, doi: 10.1109/TVT.2026.3716284.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 林泽泓，梁梦宇，赖嘉杰，利健林，**张睿**，顾一帆，毕宿志，全智 \
