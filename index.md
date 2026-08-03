@@ -67,6 +67,10 @@ Major : Information Engineering
 ## Publications
 ### Journals
 
+[J9] Genetic Algorithm–Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems \
+Farhan Ali, **Rui Zhang**, and Zhi Quan \
+IEEE Wireless Communications Letters, accepted, 2026.
+
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
 IEEE Transactions on Vehicular Technology, Early Access, pp. 1-16, 2026, doi: 10.1109/TVT.2026.3716284.
@@ -100,6 +104,14 @@ IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020.
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019.
 
 ### Conferences
+
+[C9] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
+Jiebin Xie, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
+2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (accepted)
+
+[C8] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
+Qidong Chen, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
+2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (accepted)
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 A_Unified_Robust_Low-Rank_Framework_for_Time_Synchronization_in_Multi-Drone_Networks.pdf) [C7] [A Unified Robust Low-Rank Framework for Time Synchronization in Multi-Drone Networks](https://ieeexplore.ieee.org/document/11556172) \
 Farhan Ali, **Rui Zhang**, Liyue Xiao, and Zhi Quan \
