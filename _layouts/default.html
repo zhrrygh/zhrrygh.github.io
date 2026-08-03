@@ -41,12 +41,16 @@
          只针对中文页面 (lang="cn") 生效
          ========================================= */
 
-      /* 修改点 2：显式指定 p, div, li 等具体文本标签，防止被 style.css 的全局黑体覆盖 */
+      /* Georgia 负责拉丁字符，中文字符自动回退到仿宋。 */
+      html[lang="cn"] {
+        --cn-body-font: Georgia, "Times New Roman", "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+      }
+
       html[lang="cn"] section,
       html[lang="cn"] section p,
       html[lang="cn"] section div,
       html[lang="cn"] section blockquote {
-        font-family: "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+        font-family: var(--cn-body-font);
         font-size: 16px;
         line-height: 1.5;
         color: #222;
@@ -63,17 +67,23 @@
         margin-bottom: 0.8em;
       }
 
-      /* 修改点 3：确保列表内的文本也是仿宋，同时保留你设定的间距 */
+      /* 列表与链接使用同一混排字体栈。 */
       html[lang="cn"] section ul li,
       html[lang="cn"] section ol li {
-        font-family: "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+        font-family: var(--cn-body-font);
         margin-bottom: 10px;
       }
 
-      /* 针对右侧正文里的链接，如果希望和正文统一，可以删除或修改这里。
-         原代码设定为无衬线，这里保留原样以维持链接的清晰度 */
       html[lang="cn"] section a {
-        font-family: "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+        font-family: var(--cn-body-font);
+      }
+
+      /* Georgia Bold 与常规字重差异明显，便于识别加粗的英文人名。 */
+      html[lang="cn"] section strong,
+      html[lang="cn"] section b {
+        font-family: var(--cn-body-font);
+        font-weight: 700;
+        color: #111;
       }
 
     </style>
