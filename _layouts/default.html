@@ -41,28 +41,28 @@
          只针对中文页面 (lang="cn") 生效
          ========================================= */
 
-      /* Georgia 负责拉丁字符，中文字符自动回退到仿宋。 */
+      /* 英文与英文主页一致使用 Noto Sans，中文回退到系统黑体。 */
       html[lang="cn"] {
-        --cn-body-font: Georgia, "Times New Roman", "FangSong", "仿宋", "STFangsong", "SimSun", "宋体", serif;
+        --cn-content-font: "Noto Sans", "Hiragino Sans GB", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
       }
 
       html[lang="cn"] section,
       html[lang="cn"] section p,
       html[lang="cn"] section div,
       html[lang="cn"] section blockquote {
-        font-family: var(--cn-body-font);
+        font-family: var(--cn-content-font);
         font-size: 16px;
         line-height: 1.5;
         color: #222;
       }
 
-      /* 针对右侧正文里的所有标题保留黑体 */
+      /* 标题也使用同一套中英文字体，仅通过字重区分层级。 */
       html[lang="cn"] section h1,
       html[lang="cn"] section h2,
       html[lang="cn"] section h3,
       html[lang="cn"] section h4 {
-        font-family: "SimHei", "黑体", "STHeiti", "Microsoft YaHei", sans-serif;
-        font-weight: bold;
+        font-family: var(--cn-content-font);
+        font-weight: 700;
         margin-top: 1.5em;
         margin-bottom: 0.8em;
       }
@@ -70,18 +70,18 @@
       /* 列表与链接使用同一混排字体栈。 */
       html[lang="cn"] section ul li,
       html[lang="cn"] section ol li {
-        font-family: var(--cn-body-font);
+        font-family: var(--cn-content-font);
         margin-bottom: 10px;
       }
 
       html[lang="cn"] section a {
-        font-family: var(--cn-body-font);
+        font-family: var(--cn-content-font);
       }
 
-      /* Georgia Bold 与常规字重差异明显，便于识别加粗的英文人名。 */
+      /* 站点已内置 Noto Sans 700，英文加粗效果与英文主页保持一致。 */
       html[lang="cn"] section strong,
       html[lang="cn"] section b {
-        font-family: var(--cn-body-font);
+        font-family: var(--cn-content-font);
         font-weight: 700;
         color: #111;
       }
