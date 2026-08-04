@@ -133,12 +133,13 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 ## 教学经历与学术活动
 
 ### 本科生课程 | 深圳大学
-信息论与编码 (文华班) | 2025 \
+模拟电路 | 2026 \
+无线通信技术 | 2026 \
 信息论与编码 | 2025 \
-无线通信技术 | 2026
+信息论与编码 (文华班) | 2025
 
 ### 研究生课程 | 深圳大学
-Research Methods and Paper Writing Guidance (留学博士课程) | 2025
+Research Methods and Paper Writing Guidance (留学博士课程) | 2025, 2026
 
 ### 特邀报告
 2024.05 | **东北大学** \

@@ -144,12 +144,13 @@ Youjun Hu, Jian Jiao, **Rui Zhang**, Shaohua Wu, Shushi Gu, and Qinyu Zhang \
 ## Teaching Experience and Activities
 
 ### Undergraduate Lecture | Shenzhen University
-Information Theory and Coding (Wenhua Class) | 2025 \
+Analog Circuits | 2026 \
+Wireless Communication Technology | 2026 \
 Information Theory and Coding | 2025 \
-Wireless Communication Technology | 2026
+Information Theory and Coding (Wenhua Class) | 2025
 
 ### PhD Lecture (Foreign Students) | Shenzhen University
-Research Methods and Paper Writing Guidance | 2025
+Research Methods and Paper Writing Guidance | 2025, 2026
 
 ### Invited Talk
 2024.05 | Northeastern University \
