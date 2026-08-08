@@ -48,7 +48,7 @@ lang: cn
 [1] 深圳大学青年教师科研启动经费，**通感算一体无人机射频定位技术研究**，2024-2027，20万元
 
 ### 参与
-[4] 深圳市科技创新局，基础研究专项（自然科学基金），JCYJ20240813141603005，**宽带射频集成电路三维辐射测试轼泛化表怔**，2024-11 至 2027-11，30万元 \
+[4] 深圳市科技创新局，基础研究专项（自然科学基金），JCYJ20240813141603005，**宽带射频集成电路三维辐射测试与泛化表怔**，2024-11 至 2027-11，30万元 \
 [3] 香港中文大学信兴高等工程研究所，基础研究，8115066，**Intelligent Mobile Robot-Augmented Self-Supervised Wi-Fi Sensing**，2022-07 至 2024-06，796,000 港币 \
 [2] The Government of the Hong Kong Special Administrative Region，纵向类科研经费，ITS/204/20，**Information Freshness-Oriented Random Access: From Theory to Practical Implementation**，2021-08 至 2023-08，约300万 港币 \
 [1] Australian Laureate Fellowships, **Ultralow latency wireless systems**, 2016-12-31 至 2023-12-31, 2,671,730 澳元
