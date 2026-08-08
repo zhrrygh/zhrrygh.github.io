@@ -67,9 +67,9 @@ Major : Information Engineering
 ## Publications
 ### Journals
 
-[J9] Genetic Algorithm–Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems \
+[<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems.pdf) [J9] [Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems](https://ieeexplore.ieee.org/document/11643779) \
 Farhan Ali, **Rui Zhang**, and Zhi Quan \
-IEEE Wireless Communications Letters, accepted, 2026.
+IEEE Wireless Communications Letters, Early Access, 2026, doi: 10.1109/LWC.2026.3720775.
 
 [<img src="images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
