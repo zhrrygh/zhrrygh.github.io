@@ -56,21 +56,17 @@ lang: cn
 ## 代表性论文
 ### 期刊论文
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems.pdf) [J9] [Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems](https://ieeexplore.ieee.org/document/11643779) \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems.pdf) [J8] [Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems](https://ieeexplore.ieee.org/document/11643779) \
 Farhan Ali, **Rui Zhang**, and Zhi Quan \
 IEEE Wireless Communications Letters, Early Access, 2026, doi: 10.1109/LWC.2026.3720775.
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J8] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J7] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
 IEEE Transactions on Vehicular Technology, Early Access, pp. 1-16, 2026, doi: 10.1109/TVT.2026.3716284.
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J7] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 无人机姿态抖动对低空空地信道非平稳性影响的测量与分析.pdf) [J6] [无人机姿态抖动对低空空地信道非平稳性影响的测量与分析](https://signal.ejournal.org.cn/article/doi/10.12466/xhcl.2026.01.009?viewType=citedby-info) \
 林泽泓，梁梦宇，赖嘉杰，利健林，**张睿**，顾一帆，毕宿志，全智 \
 信号处理, 2026, 42(1): 95-108. DOI: 10.12466/xhcl.2026.01.009.
-
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [J6] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
-Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
-Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2024 Pulse_Shape-Aided_Multipath_Parameter_Estimation_for_Fine-Grained_WiFi_Sensing.pdf) [J5] [Pulse Shape-Aided Multipath Parameter Estimation for Fine-Grained WiFi Sensing](https://ieeexplore.ieee.org/document/10521606)  \
 Ke Xu, **Rui Zhang**, and He Chen \
@@ -92,19 +88,23 @@ IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 928-932, July 2020.
 **Rui Zhang**, Peng Cheng, Zhuo Chen, Yonghui Li, and Branka Vucetic \
 IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.15, 2019.
 
-### 会议论文
+### 会议及会议相关论文
 
-[C9] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
+[C10] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
 Jiebin Xie, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
 2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
 
-[C8] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
+[C9] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
 Qidong Chen, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
 2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
 
-[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 A_Unified_Robust_Low-Rank_Framework_for_Time_Synchronization_in_Multi-Drone_Networks.pdf) [C7] [A Unified Robust Low-Rank Framework for Time Synchronization in Multi-Drone Networks](https://ieeexplore.ieee.org/document/11556172) \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 A_Unified_Robust_Low-Rank_Framework_for_Time_Synchronization_in_Multi-Drone_Networks.pdf) [C8] [A Unified Robust Low-Rank Framework for Time Synchronization in Multi-Drone Networks](https://ieeexplore.ieee.org/document/11556172) \
 Farhan Ali, **Rui Zhang**, Liyue Xiao, and Zhi Quan \
 2026 35th Wireless and Optical Communications Conference (WOCC), Newark, NJ, USA, 2026, pp. 1-6, doi: 10.1109/WOCC69802.2026.11556172.
+
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [C7] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
+Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 4, Article 181 (December 2025), 37 pages.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2023 RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems.pdf) [C6] [RF-Based Simultaneous Localization and Source Seeking for Multi-Robot Systems](https://ieeexplore.ieee.org/abstract/document/10304552) \
 Ke Xu, **Rui Zhang**, and He Chen \
