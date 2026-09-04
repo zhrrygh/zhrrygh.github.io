@@ -90,11 +90,11 @@ IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.
 
 ### 会议及会议相关论文
 
-[C10] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels.pdf) [C10] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
 Jiebin Xie, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
 2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
 
-[C9] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
+[<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility.pdf) [C9] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
 Qidong Chen, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
 2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
 
