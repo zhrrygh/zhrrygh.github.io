@@ -167,7 +167,7 @@ ELEC5510: Satellite Communication Systems | 2016, 2017
 
 ## Honors and Awards
 
-2026 | **China Institute of Communications Science and Technology Award — Preliminary Evaluation Passed (Project Team Member)** \
+2026 | **China Institute of Communications Science and Technology Award — Preliminary Evaluation Passed (6th Principal Contributor)** \
 [Key Technologies and Applications of Intelligent Autonomy and Integrated Sensing and Communications for Large-Scale Short-Range Communication Networks](https://www.china-cic.cn/detail?code=659bc240-78a6-4352-826f-2c05ce6689c4&type=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&from=homePage) (Project No. 26067) \
 Shenzhen University and China Mobile (Hangzhou) Information Technology Co., Ltd.
 
