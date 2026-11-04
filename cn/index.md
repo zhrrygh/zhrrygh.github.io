@@ -58,7 +58,7 @@ lang: cn
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems.pdf) [J8] [Genetic Algorithm-Based RF Synchronization Under Harsh Wireless Conditions for Multi-Class UAV Systems](https://ieeexplore.ieee.org/document/11643779) \
 Farhan Ali, **Rui Zhang**, and Zhi Quan \
-IEEE Wireless Communications Letters, Early Access, 2026, doi: 10.1109/LWC.2026.3720775.
+IEEE Wireless Communications Letters, vol. 15, pp. 4633-4637, 2026, doi: 10.1109/LWC.2026.3720775.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Attitude–Pattern Coupling Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels.pdf) [J7] [Attitude–Pattern Coupling: Antenna-Induced Non-Stationarity in Low-Altitude Air-to-Ground Channels](https://ieeexplore.ieee.org/document/11618939) \
 **Rui Zhang**, Zehong Lin, Mengyu Liang, Xiaoxin Yu, Yifan Gu, Suzhi Bi, Xiao Zhang, and Zhi Quan \
@@ -92,15 +92,15 @@ IEEE Transactions on Signal Processing, vol. 67, no. 18, pp. 4899-4914, 15 Sept.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels.pdf) [C10] Environment-Aware Predictive Sampling for Base Station Selection in Non-Stationary A2G Channels \
 Jiebin Xie, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
-2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
+2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, 7-11 Dec. 2026. (已录用)
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility.pdf) [C9] OTFS-Enabled Coarse-to-Fine Joint Synchronization and Localization under High Mobility \
 Qidong Chen, **Rui Zhang**, Suzhi Bi, and Zhi Quan \
-2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, Dec. 2026. (已录用)
+2026 IEEE Global Communications Conference (GLOBECOM), Macau, China, 7-11 Dec. 2026. (已录用)
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2026 A_Unified_Robust_Low-Rank_Framework_for_Time_Synchronization_in_Multi-Drone_Networks.pdf) [C8] [A Unified Robust Low-Rank Framework for Time Synchronization in Multi-Drone Networks](https://ieeexplore.ieee.org/document/11556172) \
 Farhan Ali, **Rui Zhang**, Liyue Xiao, and Zhi Quan \
-2026 35th Wireless and Optical Communications Conference (WOCC), Newark, NJ, USA, 2026, pp. 1-6, doi: 10.1109/WOCC69802.2026.11556172.
+2026 35th Wireless and Optical Communications Conference (WOCC), Newark, NJ, USA, 8-9 May 2026, pp. 1-6, doi: 10.1109/WOCC69802.2026.11556172.
 
 [<img src="../images/pdf-icon.png" alt="PDF" style="width: 20px; vertical-align: middle;">](../pdfs/2025 CornerSense Virtual Path-augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots.pdf) [C7] [CornerSense: Virtual Path-Augmented WiFi Sensing for Human Proximity Detection Around Corners on Mobile Robots](https://dl.acm.org/doi/10.1145/3770699) \
 Jing He, **Rui Zhang**, Qijia Wang, Ruiqi Kong, and He Chen \
